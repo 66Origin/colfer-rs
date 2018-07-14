@@ -1,0 +1,7 @@
+[package]
+name = "colfer-rs"
+version = "0.1.0"
+authors = ["Mathieu Amiot <m.amiot@otak-arts.com>"]
+
+[dependencies]
+bytes = "0.4.8"
